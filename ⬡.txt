@@ -1,0 +1,220 @@
+⬡
+NEXUS v4.2.1
+Main
+⚡ Dashboard Live 💡 Lighting 📐 Desk Height 🔋 Charging
+Modes
+🎮 Profiles 🌊 Ambient 🕐 Schedule
+System
+📊 Analytics ⚙️ Settings
+DESK ONLINE
+AI ACTIVE
+☰
+⚡ Dashboard
+TEMP 22°C
+POWER 84W
+UPTIME 00:00
+🔔 3
+NX
+💡
+4 / 4
+Zones Active
+📐
+72 cm
+Desk Height
+🔋
+3 / 4
+Charging
+🎮
+Gaming
+Mode
+RGB Overview
+🖥
+⌨️🖱
+🌈
+Active Mode
+🎮
+GAMING
+Reactive pulse sync
+🎮 🌊 🎵 🌙
+Desk Height
+118 90 63
+72
+CM
+Natural
+Sit Natural Stand
+Wireless Charging
+📱
+Phone
+100%
+🎧
+Headset
+67%
+⌚
+Watch
+—
+🖱
+Mouse
+41%
+Activity Log
+RGB mode set to Gaming 02:41
+Desk raised to 72cm 02:38
+Phone charging complete 02:30
+System started 02:20
+Color Selection
+
+HEX
+#00f5ff
+R:0 G:245 B:255
+PRESETS
+Light Controls
+Brightness 78%
+
+Saturation 92%
+
+Effect Speed 5
+
+Color Temp 5500K
+
+Zone Control
+Desk Top Strip
+Reactive · Pulse
+Reactive Pulse Static Off
+Intensity 
+ 80%
+Underglow
+Wave · Flow
+Reactive Wave Static Off
+Intensity 
+ 65%
+Monitor Halo
+Off
+Reactive Pulse Static Off
+Intensity 
+ 0%
+Shelf Strip
+Static · Pink
+Reactive Pulse Static Off
+Intensity 
+ 90%
+Height Readout
+72
+CENTIMETERS
+⚙️
+Idle
+Motor v2 · 300N force
+▼ Lower
+72
+cm
+GO
+▲ Raise
+Usage Timer
+Sitting
+1h 24m
+Standing
+2h 36m
+💚 Great! You're standing more than sitting today.
+Height Presets
+🪑
+Sitting
+63 cm
+Perfect for relaxed work
+Active
+👤
+Natural
+72 cm
+Ergonomic position
+🧍
+Standing
+108 cm
+Full standing mode
+⬆️
+Max Raise
+118 cm
+Maximum height
+➕
+Custom
+— cm
+Save current height
+Height Range
+55 cm 118 cm
+
+Wireless Charging Pads
+📱
+Smartphone
+PAD A
+100%
+● Full
+0W · 5V
+Disconnect
+🎧
+Gaming Headset
+PAD B
+67%
+⚡ Charging
+15W · 9V
+Disconnect
+⌚
+Smartwatch
+PAD C
+—
+○ Empty
+No device
+No Device
+🖱
+Gaming Mouse
+PAD D
+41%
+⚡ Charging
+10W · 5V
+Disconnect
+Total Power Draw
+25W
+Current Draw
+0W60W max
+Charging Settings
+Fast Charge Mode
+Auto-detect Device
+Charge Limit 80%
+Night Mode (silent)
+🎮
+Gaming Beast
+RGB: Reactive Cyan Height: 72cm Mode: High Energy
+● Active
+💼
+Work Focus
+RGB: Soft White Height: 72cm Mode: Static
+🎬
+Movie Mode
+RGB: Warm Amber Height: 63cm Mode: Breathing
+🌙
+Night Zen
+RGB: Low Purple Height: 63cm Mode: Zen Breathe
+➕
+New Profile
+Click to create
+System Settings
+🔵
+Bluetooth Connection
+NEXUS-DESK-4X · Connected
+Connected
+📡
+Wi-Fi Sync
+192.168.1.42 · Local
+🔔
+Push Notifications
+Charging, height alerts
+🌙
+Dark Auto-Dim
+Reduce brightness after 10pm
+⚡
+Firmware
+v4.2.1 · Up to date
+Latest
+Danger Zone
+🔄 Reset All Settings ⚠️ Factory Reset
+Ambient Lighting
+🌊 Ambient scene builder coming soon...
+Schedule
+🕐 Schedule automation coming soon...
+Analytics
+📊 Usage analytics coming soon...
